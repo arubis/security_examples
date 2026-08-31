@@ -214,3 +214,6 @@ entity replacement. You may still be vulnerable to a DoS attack when using LibXM
 [LibXML Example](https://github.com/xml4r/libxml-ruby/blob/c46ec53c68e4552c4e6547b52e3f365c3d4d9dd0/test/c14n/given/example-5.xml)  
 [SANS Hands-On XML External Entity Vulnerability Training](http://www.sans.org/reading-room/whitepapers/application/hands-on-xml-external-entity-vulnerability-training-module-34397)  
 [ColeSec Security](http://colesec.inventedtheinternet.com/attacking-xml-with-xml-external-entity-injection-xxe/)  
+
+
+<!-- Security scan triggered at 2026-08-31 17:00:31 -->
